@@ -1,0 +1,6 @@
+1,a-z 26字母检索，每种取前1000个，按照星排序，fork排序和最近更新排序，去除重复，大约在3-8万个项目左右
+2， 按照组织检索，谷歌，Facebook，微软，redhat,UC Berkeley, Intel,Univ.of Washington, Apache,Pivotal、SA, Shopify,
+uber, MIT,Univ.of Michigan, Stanford,IBM,jetbrains, apple, amazon,Alphabet, huawei, Oracle, Tencent,Alibaba,baidu
+这份排名主要是围绕那些致力于开源的组织。开源项目的发展离不开数百万付费或志愿开发人员的贡献以及雇佣他们的组织。其中，微软、Google、小红帽、英特尔及一些高校对开源项目及社区的贡献尤为突出。
+
+总共检索，可能会超过十万个仓库，多达可能会有数十万个,甚至上百万个。
